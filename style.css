@@ -1,0 +1,12 @@
+body {
+  max-width: 800px;
+  margin: 2em auto;
+  background: #eee;
+  font-family: Verdana, sans-serif;
+  font-size: 1em;
+}
+
+main {
+  background: #fff;
+  padding: 2em;
+}
